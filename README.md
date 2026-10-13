@@ -1,6 +1,6 @@
 # Xe-TO-do-list-app
 ------------------------------------------------------------------------------------
-name your in list title bar to save him as file (.txt) and click "💾" button      -
+name your list in title bar to save him as file (.txt) and click "💾" button      -
 ------------------------------------------------------------------------------------
 add your task with "+" button , and set the time                                   -  
 ------------------------------------------------------------------------------------
